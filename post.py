@@ -1,3 +1,8 @@
+'''
+' @author: yiny
+' @repo: Fxxk-ggyd
+' @version: v0.999beta
+'''
 import requests
 import time
 import json
@@ -130,7 +135,7 @@ def anti_activity():  # 回走函数
 
 def activity():
     global longitude, latitude, lat1, lon1, lat2, lon2, stepCount, distance, start_time, targetFinishedTime
-    if distance >= 600:  # 如果大于630米要转弯 我觉得返回跑比较好 差不多这个点
+    if distance >= 450:  # 如果大于630米要转弯 我觉得返回跑比较好 差不多这个点
         anti_activity()
         # targetFinishedTime = int(time.time()) - start_time
         return

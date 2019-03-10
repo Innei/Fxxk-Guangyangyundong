@@ -1,7 +1,8 @@
 '''
 ' @author: yiny
 ' @repo: Fxxk-ggyd
-' @version: v0.999beta
+' @version: v0.9999beta
+' 修正等待时间
 '''
 import requests
 import time
@@ -126,6 +127,8 @@ def anti_activity():  # 回走函数
     print("每次步数", stepCount_per)
     print("每秒走多少步", activity_data["distancePerStep"])
     print("平均速度", activity_data["stepPerSecond"])
+    print('sleep ', distance_per / activity_data["stepPerSecond"], ' s\n')
+    time.sleep(distance_per / activity_data["stepPerSecond"])   # 等待时间 位移差/速度
     log = r.post(url + 'api/runningActivityData',
                  headers=headers, data=activity_data).content
     log = json.loads(log)
@@ -171,6 +174,8 @@ def activity():
     print('总步数', stepCount)
     print("每次步数", stepCount_per)
     print("每秒走多少步", activity_data["distancePerStep"])
+    print('sleep ', distance_per / activity_data["stepPerSecond"], ' s\n')
+    time.sleep(distance_per / activity_data["stepPerSecond"])
     log = r.post(url + 'api/runningActivityData',
                  headers=headers, data=activity_data).content
     log = json.loads(log)
@@ -181,7 +186,5 @@ n = 0
 while n < 90:
     activity()
     n = n + 1
-    rand_time = random.randint(300, 400) / 100
-    print('sleep ', rand_time, ' s\n')
-    time.sleep(rand_time)  # 睡眠然后再次提交数据
+   
 end()

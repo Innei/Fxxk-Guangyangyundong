@@ -1,0 +1,5485 @@
+{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 3,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 548123,
+            "runningSportId": 3,
+            "costTime": 517,
+            "distance": 942,
+            "kcalConsumed": 133,
+            "qualified": false,
+            "startTime": 1551875756000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551893466000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 547968,
+            "runningSportId": 3,
+            "costTime": 315,
+            "distance": 1011,
+            "kcalConsumed": 81,
+            "qualified": false,
+            "startTime": 1551875307000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551875696000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 537075,
+            "runningSportId": 1,
+            "costTime": 12,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551699581000,
+            "sportDate": "2019-03-04",
+            "endedAt": 1551699596000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 540505,
+            "runningSportId": 23,
+            "costTime": 48,
+            "distance": 101,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551767833000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551767882000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 548679,
+            "runningSportId": 23,
+            "costTime": 20,
+            "distance": 43,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551879104000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551879123000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 5,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 548442,
+            "runningSportId": 23,
+            "costTime": 177,
+            "distance": 205,
+            "kcalConsumed": 4,
+            "qualified": false,
+            "startTime": 1551877221000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551877398000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 548379,
+            "runningSportId": 22,
+            "costTime": 14,
+            "distance": 73,
+            "kcalConsumed": 2,
+            "qualified": false,
+            "startTime": 1551876802000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551876815000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 548364,
+            "runningSportId": 22,
+            "costTime": 23,
+            "distance": 177,
+            "kcalConsumed": 4,
+            "qualified": false,
+            "startTime": 1551876748000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551876770000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 548361,
+            "runningSportId": 22,
+            "costTime": 0,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551876745000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551893470000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 548312,
+            "runningSportId": 22,
+            "costTime": 72,
+            "distance": 112,
+            "kcalConsumed": 12,
+            "qualified": false,
+            "startTime": 1551876588000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551876662000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 552667,
+            "runningSportId": 23,
+            "costTime": 190,
+            "distance": 256,
+            "kcalConsumed": 5,
+            "qualified": false,
+            "startTime": 1551950173000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551950364000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 3,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 2866,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 84,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 540185,
+            "runningSportId": 18,
+            "costTime": 2866,
+            "distance": 4223,
+            "kcalConsumed": 84,
+            "qualified": true,
+            "startTime": 1551758024000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551760889000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 540181,
+            "runningSportId": 18,
+            "costTime": 0,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551758006000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551807008000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 539553,
+            "runningSportId": 18,
+            "costTime": 938,
+            "distance": 1405,
+            "kcalConsumed": 27,
+            "qualified": false,
+            "startTime": 1551743529000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551744467000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 2,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 539397,
+            "runningSportId": 1,
+            "costTime": 3,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551712792000,
+            "sportDate": "2019-03-04",
+            "endedAt": 1551712796000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 539396,
+            "runningSportId": 1,
+            "costTime": 6,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551712779000,
+            "sportDate": "2019-03-04",
+            "endedAt": 1551712785000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 539541,
+            "runningSportId": 23,
+            "costTime": 651,
+            "distance": 829,
+            "kcalConsumed": 16,
+            "qualified": false,
+            "startTime": 1551743173000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551743824000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 4,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 556850,
+            "runningSportId": 21,
+            "costTime": 141,
+            "distance": 200,
+            "kcalConsumed": 10,
+            "qualified": false,
+            "startTime": 1552002452000,
+            "sportDate": "2019-03-08",
+            "endedAt": 1552002593000,
+            "isValid": true,
+            "isVerified": false,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 552624,
+            "runningSportId": 21,
+            "costTime": 47,
+            "distance": 128,
+            "kcalConsumed": 3,
+            "qualified": false,
+            "startTime": 1551950045000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551979842000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 540439,
+            "runningSportId": 23,
+            "costTime": 15,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551762981000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551762996000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 539542,
+            "runningSportId": 23,
+            "costTime": 392,
+            "distance": 505,
+            "kcalConsumed": 9,
+            "qualified": false,
+            "startTime": 1551743179000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551743572000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 540186,
+            "runningSportId": 23,
+            "costTime": 263,
+            "distance": 312,
+            "kcalConsumed": 6,
+            "qualified": false,
+            "startTime": 1551758024000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551758287000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 2,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 540188,
+            "runningSportId": 23,
+            "costTime": 99,
+            "distance": 149,
+            "kcalConsumed": 2,
+            "qualified": false,
+            "startTime": 1551758028000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551758127000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 539611,
+            "runningSportId": 23,
+            "costTime": 122,
+            "distance": 65,
+            "kcalConsumed": 3,
+            "qualified": false,
+            "startTime": 1551747559000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551747681000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 2,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 540383,
+            "runningSportId": 23,
+            "costTime": 39,
+            "distance": 17,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551761901000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551761940000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 540369,
+            "runningSportId": 23,
+            "costTime": 424,
+            "distance": 527,
+            "kcalConsumed": 10,
+            "qualified": false,
+            "startTime": 1551761431000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551761855000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 540380,
+            "runningSportId": 23,
+            "costTime": 84,
+            "distance": 86,
+            "kcalConsumed": 2,
+            "qualified": false,
+            "startTime": 1551761867000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551761951000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 544318,
+            "runningSportId": 22,
+            "costTime": 10,
+            "distance": 3,
+            "kcalConsumed": 2,
+            "qualified": false,
+            "startTime": 1551851053000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551851064000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 2,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 540184,
+            "runningSportId": 21,
+            "costTime": 2893,
+            "distance": 2559,
+            "kcalConsumed": 215,
+            "qualified": true,
+            "startTime": 1551758011000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551760909000,
+            "isValid": false,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 540078,
+            "runningSportId": 22,
+            "costTime": 9,
+            "distance": 3,
+            "kcalConsumed": 2,
+            "qualified": false,
+            "startTime": 1551755770000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551755779000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 6,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 551974,
+            "runningSportId": 20,
+            "costTime": 345,
+            "distance": 1275,
+            "kcalConsumed": 89,
+            "qualified": true,
+            "startTime": 1551947362000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551947707000,
+            "isValid": false,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 546872,
+            "runningSportId": 18,
+            "costTime": 344,
+            "distance": 186,
+            "kcalConsumed": 10,
+            "qualified": false,
+            "startTime": 1551869677000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551870020000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 542318,
+            "runningSportId": 20,
+            "costTime": 343,
+            "distance": 1003,
+            "kcalConsumed": 88,
+            "qualified": false,
+            "startTime": 1551794505000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551794858000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 539407,
+            "runningSportId": 18,
+            "costTime": 3,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551714445000,
+            "sportDate": "2019-03-04",
+            "endedAt": 1551714448000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 539406,
+            "runningSportId": 18,
+            "costTime": 31,
+            "distance": 0,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551714387000,
+            "sportDate": "2019-03-04",
+            "endedAt": 1551714418000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 539389,
+            "runningSportId": 18,
+            "costTime": 51,
+            "distance": 0,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551712313000,
+            "sportDate": "2019-03-04",
+            "endedAt": 1551712364000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 3,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 2,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 2,
+      "runningActivityTimeCosted": 3611,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 175,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 551972,
+            "runningSportId": 20,
+            "costTime": 302,
+            "distance": 1186,
+            "kcalConsumed": 78,
+            "qualified": true,
+            "startTime": 1551947357000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551947658000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 546903,
+            "runningSportId": 18,
+            "costTime": 3309,
+            "distance": 4037,
+            "kcalConsumed": 97,
+            "qualified": true,
+            "startTime": 1551869887000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551873207000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 546754,
+            "runningSportId": 18,
+            "costTime": 1048,
+            "distance": 551,
+            "kcalConsumed": 31,
+            "qualified": false,
+            "startTime": 1551868818000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551869865000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 25,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 5,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 2710,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 79,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 556779,
+            "runningSportId": 19,
+            "costTime": 16860,
+            "distance": 4054,
+            "kcalConsumed": 1508,
+            "qualified": false,
+            "startTime": 1552000298000,
+            "sportDate": "2019-03-08",
+            "endedAt": 1552017157000,
+            "isValid": true,
+            "isVerified": false,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 556509,
+            "runningSportId": 2,
+            "costTime": 969,
+            "distance": 2003,
+            "kcalConsumed": 87,
+            "qualified": true,
+            "startTime": 1551965943000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551966912000,
+            "isValid": false,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 556367,
+            "runningSportId": 1,
+            "costTime": 1240,
+            "distance": 1259,
+            "kcalConsumed": 36,
+            "qualified": false,
+            "startTime": 1551964686000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551965926000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 556337,
+            "runningSportId": 3,
+            "costTime": 149,
+            "distance": 0,
+            "kcalConsumed": 38,
+            "qualified": false,
+            "startTime": 1551964487000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551964636000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 556322,
+            "runningSportId": 3,
+            "costTime": 39,
+            "distance": 0,
+            "kcalConsumed": 10,
+            "qualified": false,
+            "startTime": 1551964430000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551964469000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 553013,
+            "runningSportId": 1,
+            "costTime": 1548,
+            "distance": 5933,
+            "kcalConsumed": 45,
+            "qualified": true,
+            "startTime": 1551951640000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551953189000,
+            "isValid": false,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 552945,
+            "runningSportId": 1,
+            "costTime": 389,
+            "distance": 205,
+            "kcalConsumed": 11,
+            "qualified": false,
+            "startTime": 1551951103000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551951492000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 552938,
+            "runningSportId": 3,
+            "costTime": 18,
+            "distance": 0,
+            "kcalConsumed": 5,
+            "qualified": false,
+            "startTime": 1551951079000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551951098000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 552923,
+            "runningSportId": 3,
+            "costTime": 20,
+            "distance": 0,
+            "kcalConsumed": 5,
+            "qualified": false,
+            "startTime": 1551951009000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551951029000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 552919,
+            "runningSportId": 2,
+            "costTime": 30,
+            "distance": 0,
+            "kcalConsumed": 3,
+            "qualified": false,
+            "startTime": 1551950974000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551951004000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 552879,
+            "runningSportId": 2,
+            "costTime": 158,
+            "distance": 59,
+            "kcalConsumed": 14,
+            "qualified": false,
+            "startTime": 1551950807000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551950965000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 552866,
+            "runningSportId": 3,
+            "costTime": 31,
+            "distance": 0,
+            "kcalConsumed": 8,
+            "qualified": false,
+            "startTime": 1551950760000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551950791000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 552744,
+            "runningSportId": 1,
+            "costTime": 414,
+            "distance": 1536,
+            "kcalConsumed": 12,
+            "qualified": false,
+            "startTime": 1551950339000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551950753000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 552613,
+            "runningSportId": 1,
+            "costTime": 318,
+            "distance": 751,
+            "kcalConsumed": 9,
+            "qualified": false,
+            "startTime": 1551950007000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551950325000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 552554,
+            "runningSportId": 1,
+            "costTime": 234,
+            "distance": 787,
+            "kcalConsumed": 7,
+            "qualified": false,
+            "startTime": 1551949692000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551949926000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 552495,
+            "runningSportId": 1,
+            "costTime": 152,
+            "distance": 115,
+            "kcalConsumed": 4,
+            "qualified": false,
+            "startTime": 1551949346000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551949498000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 552467,
+            "runningSportId": 1,
+            "costTime": 70,
+            "distance": 0,
+            "kcalConsumed": 2,
+            "qualified": false,
+            "startTime": 1551949182000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551949252000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 552443,
+            "runningSportId": 1,
+            "costTime": 56,
+            "distance": 21,
+            "kcalConsumed": 2,
+            "qualified": false,
+            "startTime": 1551949051000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551949106000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 552384,
+            "runningSportId": 2,
+            "costTime": 36,
+            "distance": 0,
+            "kcalConsumed": 3,
+            "qualified": false,
+            "startTime": 1551948789000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551948825000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 552370,
+            "runningSportId": 1,
+            "costTime": 30,
+            "distance": 19,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551948723000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551979840000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 548398,
+            "runningSportId": 1,
+            "costTime": 3249,
+            "distance": 4006,
+            "kcalConsumed": 95,
+            "qualified": true,
+            "startTime": 1551876879000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551880133000,
+            "isValid": false,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 547393,
+            "runningSportId": 2,
+            "costTime": 1004,
+            "distance": 2021,
+            "kcalConsumed": 90,
+            "qualified": true,
+            "startTime": 1551872622000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551873635000,
+            "isValid": false,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 547387,
+            "runningSportId": 2,
+            "costTime": 0,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551872602000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551893457000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 546856,
+            "runningSportId": 18,
+            "costTime": 2710,
+            "distance": 4020,
+            "kcalConsumed": 79,
+            "qualified": true,
+            "startTime": 1551869604000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551872322000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 546150,
+            "runningSportId": 18,
+            "costTime": 16,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551863523000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551863539000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 3,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 558314,
+            "runningSportId": 20,
+            "costTime": 305,
+            "distance": 1042,
+            "kcalConsumed": 78,
+            "qualified": true,
+            "startTime": 1552020247000,
+            "sportDate": "2019-03-08",
+            "endedAt": 1552020553000,
+            "isValid": false,
+            "isVerified": false,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 546714,
+            "runningSportId": 18,
+            "costTime": 564,
+            "distance": 1008,
+            "kcalConsumed": 16,
+            "qualified": false,
+            "startTime": 1551868364000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551868929000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 546641,
+            "runningSportId": 18,
+            "costTime": 328,
+            "distance": 515,
+            "kcalConsumed": 10,
+            "qualified": false,
+            "startTime": 1551867466000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551867794000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 4,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 552049,
+            "runningSportId": 11,
+            "costTime": 182,
+            "distance": 222,
+            "kcalConsumed": 4,
+            "qualified": false,
+            "startTime": 1551947547000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551947770000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 551715,
+            "runningSportId": 9,
+            "costTime": 1247,
+            "distance": 1496,
+            "kcalConsumed": 93,
+            "qualified": false,
+            "startTime": 1551945611000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551979833000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 551600,
+            "runningSportId": 9,
+            "costTime": 12,
+            "distance": 0,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551944738000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551944751000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 540085,
+            "runningSportId": 9,
+            "costTime": 166,
+            "distance": 194,
+            "kcalConsumed": 12,
+            "qualified": false,
+            "startTime": 1551756364000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551756762000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 3,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 786,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 59,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 551851,
+            "runningSportId": 23,
+            "costTime": 135,
+            "distance": 136,
+            "kcalConsumed": 3,
+            "qualified": false,
+            "startTime": 1551946608000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551946760000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 551717,
+            "runningSportId": 21,
+            "costTime": 786,
+            "distance": 1539,
+            "kcalConsumed": 59,
+            "qualified": true,
+            "startTime": 1551945625000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551946527000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 540088,
+            "runningSportId": 21,
+            "costTime": 291,
+            "distance": 489,
+            "kcalConsumed": 22,
+            "qualified": false,
+            "startTime": 1551756376000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551756736000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 2,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 541430,
+            "runningSportId": 23,
+            "costTime": 37,
+            "distance": 85,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551787488000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551787615000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 540097,
+            "runningSportId": 21,
+            "costTime": 293,
+            "distance": 109,
+            "kcalConsumed": 22,
+            "qualified": false,
+            "startTime": 1551756427000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551757280000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 4,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 551716,
+            "runningSportId": 21,
+            "costTime": 1026,
+            "distance": 1489,
+            "kcalConsumed": 76,
+            "qualified": false,
+            "startTime": 1551945624000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551979833000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 540964,
+            "runningSportId": 23,
+            "costTime": 202,
+            "distance": 39,
+            "kcalConsumed": 5,
+            "qualified": false,
+            "startTime": 1551778902000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551807017000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 540960,
+            "runningSportId": 23,
+            "costTime": 67,
+            "distance": 104,
+            "kcalConsumed": 2,
+            "qualified": false,
+            "startTime": 1551778824000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551807017000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 540087,
+            "runningSportId": 21,
+            "costTime": 280,
+            "distance": 580,
+            "kcalConsumed": 21,
+            "qualified": false,
+            "startTime": 1551756376000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551757470000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 2,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 558076,
+            "runningSportId": 22,
+            "costTime": 250,
+            "distance": 832,
+            "kcalConsumed": 42,
+            "qualified": true,
+            "startTime": 1552017333000,
+            "sportDate": "2019-03-08",
+            "endedAt": 1552017584000,
+            "isValid": false,
+            "isVerified": false,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 548151,
+            "runningSportId": 22,
+            "costTime": 0,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551875853000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551893467000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 696,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 52,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 544134,
+            "runningSportId": 21,
+            "costTime": 696,
+            "distance": 1524,
+            "kcalConsumed": 52,
+            "qualified": true,
+            "startTime": 1551848840000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551849535000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 2,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 689,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 51,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 544135,
+            "runningSportId": 21,
+            "costTime": 689,
+            "distance": 1510,
+            "kcalConsumed": 51,
+            "qualified": true,
+            "startTime": 1551848840000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551849530000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 544127,
+            "runningSportId": 21,
+            "costTime": 5,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551848788000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551848792000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 2,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 691,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 51,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 544136,
+            "runningSportId": 21,
+            "costTime": 691,
+            "distance": 1514,
+            "kcalConsumed": 51,
+            "qualified": true,
+            "startTime": 1551848841000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551849533000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 544128,
+            "runningSportId": 21,
+            "costTime": 13,
+            "distance": 19,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551848788000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551848802000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 9,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 5,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 3260,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 117,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 555100,
+            "runningSportId": 23,
+            "costTime": 2990,
+            "distance": 3605,
+            "kcalConsumed": 72,
+            "qualified": true,
+            "startTime": 1551960968000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551963958000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 554829,
+            "runningSportId": 21,
+            "costTime": 547,
+            "distance": 931,
+            "kcalConsumed": 41,
+            "qualified": false,
+            "startTime": 1551960393000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551960940000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 551994,
+            "runningSportId": 22,
+            "costTime": 270,
+            "distance": 814,
+            "kcalConsumed": 45,
+            "qualified": true,
+            "startTime": 1551947438000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551947708000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 551951,
+            "runningSportId": 22,
+            "costTime": 151,
+            "distance": 888,
+            "kcalConsumed": 25,
+            "qualified": true,
+            "startTime": 1551947273000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551947423000,
+            "isValid": false,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 544664,
+            "runningSportId": 21,
+            "costTime": 326,
+            "distance": 525,
+            "kcalConsumed": 24,
+            "qualified": false,
+            "startTime": 1551854560000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551854886000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 544655,
+            "runningSportId": 23,
+            "costTime": 151,
+            "distance": 203,
+            "kcalConsumed": 4,
+            "qualified": false,
+            "startTime": 1551854398000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551854549000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 544490,
+            "runningSportId": 22,
+            "costTime": 204,
+            "distance": 800,
+            "kcalConsumed": 34,
+            "qualified": true,
+            "startTime": 1551853028000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551853231000,
+            "isValid": false,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 540891,
+            "runningSportId": 22,
+            "costTime": 271,
+            "distance": 954,
+            "kcalConsumed": 45,
+            "qualified": true,
+            "startTime": 1551777380000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551777651000,
+            "isValid": false,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 539808,
+            "runningSportId": 23,
+            "costTime": 30,
+            "distance": 0,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551751698000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551751728000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 4,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 2987,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 72,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 555104,
+            "runningSportId": 11,
+            "costTime": 2987,
+            "distance": 3536,
+            "kcalConsumed": 72,
+            "qualified": true,
+            "startTime": 1551960977000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551963964000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 554830,
+            "runningSportId": 9,
+            "costTime": 572,
+            "distance": 872,
+            "kcalConsumed": 43,
+            "qualified": false,
+            "startTime": 1551960395000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551960967000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 544417,
+            "runningSportId": 9,
+            "costTime": 1566,
+            "distance": 2081,
+            "kcalConsumed": 117,
+            "qualified": false,
+            "startTime": 1551852350000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551893423000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 540856,
+            "runningSportId": 11,
+            "costTime": 41,
+            "distance": 0,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551777039000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551807016000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 3,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 2724,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 66,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 551477,
+            "runningSportId": 23,
+            "costTime": 0,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551943867000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551979830000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 543510,
+            "runningSportId": 23,
+            "costTime": 2724,
+            "distance": 3507,
+            "kcalConsumed": 66,
+            "qualified": true,
+            "startTime": 1551844026000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551847156000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 540117,
+            "runningSportId": 21,
+            "costTime": 3506,
+            "distance": 1053,
+            "kcalConsumed": 261,
+            "qualified": false,
+            "startTime": 1551756785000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551807007000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 4,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 544237,
+            "runningSportId": 22,
+            "costTime": 2312,
+            "distance": 1711,
+            "kcalConsumed": 387,
+            "qualified": false,
+            "startTime": 1551850108000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551893421000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 540329,
+            "runningSportId": 23,
+            "costTime": 518,
+            "distance": 641,
+            "kcalConsumed": 13,
+            "qualified": false,
+            "startTime": 1551759628000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551807009000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 540136,
+            "runningSportId": 23,
+            "costTime": 1573,
+            "distance": 1021,
+            "kcalConsumed": 38,
+            "qualified": false,
+            "startTime": 1551757652000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551807008000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 540120,
+            "runningSportId": 23,
+            "costTime": 666,
+            "distance": 570,
+            "kcalConsumed": 16,
+            "qualified": false,
+            "startTime": 1551756864000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551807007000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 539868,
+            "runningSportId": 21,
+            "costTime": 514,
+            "distance": 763,
+            "kcalConsumed": 38,
+            "qualified": false,
+            "startTime": 1551752013000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551752539000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 539850,
+            "runningSportId": 22,
+            "costTime": 537,
+            "distance": 755,
+            "kcalConsumed": 90,
+            "qualified": false,
+            "startTime": 1551752003000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551752540000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 539919,
+            "runningSportId": 21,
+            "costTime": 252,
+            "distance": 372,
+            "kcalConsumed": 19,
+            "qualified": false,
+            "startTime": 1551752173000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551752427000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 558495,
+            "runningSportId": 18,
+            "costTime": 9,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1552022585000,
+            "sportDate": "2019-03-08",
+            "endedAt": 1552022594000,
+            "isValid": true,
+            "isVerified": false,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 549213,
+            "runningSportId": 20,
+            "costTime": 10,
+            "distance": 1,
+            "kcalConsumed": 3,
+            "qualified": false,
+            "startTime": 1551920591000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551920602000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 5,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 547600,
+            "runningSportId": 10,
+            "costTime": 390,
+            "distance": 741,
+            "kcalConsumed": 65,
+            "qualified": false,
+            "startTime": 1551873670000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551874063000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 537759,
+            "runningSportId": 10,
+            "costTime": 0,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551702126000,
+            "sportDate": "2019-03-04",
+            "endedAt": 1551720642000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 537370,
+            "runningSportId": 9,
+            "costTime": 807,
+            "distance": 1139,
+            "kcalConsumed": 60,
+            "qualified": false,
+            "startTime": 1551701092000,
+            "sportDate": "2019-03-04",
+            "endedAt": 1551720638000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 537362,
+            "runningSportId": 9,
+            "costTime": 17,
+            "distance": 10,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551701060000,
+            "sportDate": "2019-03-04",
+            "endedAt": 1551701078000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 537339,
+            "runningSportId": 9,
+            "costTime": 4,
+            "distance": 26,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551700999000,
+            "sportDate": "2019-03-04",
+            "endedAt": 1551701004000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 540024,
+            "runningSportId": 9,
+            "costTime": 575,
+            "distance": 762,
+            "kcalConsumed": 43,
+            "qualified": false,
+            "startTime": 1551752793000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551753368000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 4,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 870,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 65,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 547596,
+            "runningSportId": 10,
+            "costTime": 311,
+            "distance": 815,
+            "kcalConsumed": 52,
+            "qualified": false,
+            "startTime": 1551873667000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551873979000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 540025,
+            "runningSportId": 9,
+            "costTime": 540,
+            "distance": 790,
+            "kcalConsumed": 40,
+            "qualified": false,
+            "startTime": 1551752793000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551753334000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 537459,
+            "runningSportId": 9,
+            "costTime": 870,
+            "distance": 1521,
+            "kcalConsumed": 65,
+            "qualified": true,
+            "startTime": 1551701437000,
+            "sportDate": "2019-03-04",
+            "endedAt": 1551702313000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 537371,
+            "runningSportId": 9,
+            "costTime": 321,
+            "distance": 56,
+            "kcalConsumed": 24,
+            "qualified": false,
+            "startTime": 1551701096000,
+            "sportDate": "2019-03-04",
+            "endedAt": 1551701418000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 3,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 542674,
+            "runningSportId": 23,
+            "costTime": 12010,
+            "distance": 3629,
+            "kcalConsumed": 290,
+            "qualified": false,
+            "startTime": 1551836793000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551848803000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 540108,
+            "runningSportId": 23,
+            "costTime": 1539,
+            "distance": 986,
+            "kcalConsumed": 37,
+            "qualified": false,
+            "startTime": 1551756622000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551807007000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 539804,
+            "runningSportId": 23,
+            "costTime": 249,
+            "distance": 52,
+            "kcalConsumed": 6,
+            "qualified": false,
+            "startTime": 1551751569000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551751818000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 556810,
+            "runningSportId": 22,
+            "costTime": 10,
+            "distance": 77,
+            "kcalConsumed": 2,
+            "qualified": false,
+            "startTime": 1552001704000,
+            "sportDate": "2019-03-08",
+            "endedAt": 1552001714000,
+            "isValid": true,
+            "isVerified": false,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 540112,
+            "runningSportId": 23,
+            "costTime": 3778,
+            "distance": 1675,
+            "kcalConsumed": 91,
+            "qualified": false,
+            "startTime": 1551756684000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551760462000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 2,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 2,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 2,
+      "runningActivityTimeCosted": 1565,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 117,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 552247,
+            "runningSportId": 21,
+            "costTime": 738,
+            "distance": 1580,
+            "kcalConsumed": 55,
+            "qualified": true,
+            "startTime": 1551948259000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551948996000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 544716,
+            "runningSportId": 21,
+            "costTime": 827,
+            "distance": 1523,
+            "kcalConsumed": 62,
+            "qualified": true,
+            "startTime": 1551854991000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551855818000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 540031,
+            "runningSportId": 20,
+            "costTime": 311,
+            "distance": 1009,
+            "kcalConsumed": 80,
+            "qualified": false,
+            "startTime": 1551752828000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551753140000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 2,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 546114,
+            "runningSportId": 11,
+            "costTime": 1164,
+            "distance": 675,
+            "kcalConsumed": 28,
+            "qualified": false,
+            "startTime": 1551863410000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551893442000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 540666,
+            "runningSportId": 11,
+            "costTime": 1113,
+            "distance": 429,
+            "kcalConsumed": 27,
+            "qualified": false,
+            "startTime": 1551770685000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551807013000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 4,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 546115,
+            "runningSportId": 23,
+            "costTime": 2952,
+            "distance": 2212,
+            "kcalConsumed": 71,
+            "qualified": false,
+            "startTime": 1551863413000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551866365000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 540667,
+            "runningSportId": 23,
+            "costTime": 2981,
+            "distance": 2757,
+            "kcalConsumed": 72,
+            "qualified": false,
+            "startTime": 1551770686000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551773668000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 539869,
+            "runningSportId": 21,
+            "costTime": 531,
+            "distance": 697,
+            "kcalConsumed": 40,
+            "qualified": false,
+            "startTime": 1551752014000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551752544000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 539847,
+            "runningSportId": 21,
+            "costTime": 5,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551751998000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551752002000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 540027,
+            "runningSportId": 21,
+            "costTime": 641,
+            "distance": 879,
+            "kcalConsumed": 48,
+            "qualified": false,
+            "startTime": 1551752794000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551753435000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 2346,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 57,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 548246,
+            "runningSportId": 23,
+            "costTime": 2346,
+            "distance": 3600,
+            "kcalConsumed": 57,
+            "qualified": true,
+            "startTime": 1551876226000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551878602000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 2,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 2,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 2,
+      "runningActivityTimeCosted": 3005,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 106,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 554841,
+            "runningSportId": 21,
+            "costTime": 653,
+            "distance": 1607,
+            "kcalConsumed": 49,
+            "qualified": true,
+            "startTime": 1551960423000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551961077000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 548248,
+            "runningSportId": 23,
+            "costTime": 2352,
+            "distance": 3629,
+            "kcalConsumed": 57,
+            "qualified": true,
+            "startTime": 1551876232000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551878613000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 2,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 652,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 49,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 554843,
+            "runningSportId": 21,
+            "costTime": 652,
+            "distance": 1641,
+            "kcalConsumed": 49,
+            "qualified": true,
+            "startTime": 1551960424000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551961076000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 540123,
+            "runningSportId": 23,
+            "costTime": 37,
+            "distance": 18,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551756978000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551757016000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 2,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 752,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 56,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 554845,
+            "runningSportId": 21,
+            "costTime": 752,
+            "distance": 1513,
+            "kcalConsumed": 56,
+            "qualified": true,
+            "startTime": 1551960425000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551961178000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 540102,
+            "runningSportId": 21,
+            "costTime": 268,
+            "distance": 361,
+            "kcalConsumed": 20,
+            "qualified": false,
+            "startTime": 1551756493000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551756762000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 539784,
+            "runningSportId": 23,
+            "costTime": 65,
+            "distance": 8,
+            "kcalConsumed": 2,
+            "qualified": false,
+            "startTime": 1551751379000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551751444000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 540026,
+            "runningSportId": 21,
+            "costTime": 675,
+            "distance": 950,
+            "kcalConsumed": 50,
+            "qualified": false,
+            "startTime": 1551752793000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551753468000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 544267,
+            "runningSportId": 22,
+            "costTime": 280,
+            "distance": 827,
+            "kcalConsumed": 47,
+            "qualified": true,
+            "startTime": 1551850443000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551850722000,
+            "isValid": false,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 3,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 3,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 3,
+      "runningActivityTimeCosted": 1070,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 130,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 552104,
+            "runningSportId": 10,
+            "costTime": 271,
+            "distance": 803,
+            "kcalConsumed": 45,
+            "qualified": true,
+            "startTime": 1551947783000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551948056000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 544709,
+            "runningSportId": 10,
+            "costTime": 272,
+            "distance": 810,
+            "kcalConsumed": 46,
+            "qualified": true,
+            "startTime": 1551854956000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551855228000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 534964,
+            "runningSportId": 9,
+            "costTime": 527,
+            "distance": 1511,
+            "kcalConsumed": 39,
+            "qualified": true,
+            "startTime": 1551687608000,
+            "sportDate": "2019-03-04",
+            "endedAt": 1551688135000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 3098,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 90,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 546551,
+            "runningSportId": 18,
+            "costTime": 3098,
+            "distance": 4028,
+            "kcalConsumed": 90,
+            "qualified": true,
+            "startTime": 1551866311000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551869410000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 0,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": []
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 543585,
+            "runningSportId": 22,
+            "costTime": 127,
+            "distance": 250,
+            "kcalConsumed": 21,
+            "qualified": false,
+            "startTime": 1551844380000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551844508000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 4,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 2784,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 81,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 556782,
+            "runningSportId": 18,
+            "costTime": 199,
+            "distance": 538,
+            "kcalConsumed": 6,
+            "qualified": false,
+            "startTime": 1552000602000,
+            "sportDate": "2019-03-08",
+            "endedAt": 1552000801000,
+            "isValid": true,
+            "isVerified": false,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 544006,
+            "runningSportId": 18,
+            "costTime": 2784,
+            "distance": 4029,
+            "kcalConsumed": 81,
+            "qualified": true,
+            "startTime": 1551847162000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551849946000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 540454,
+            "runningSportId": 18,
+            "costTime": 38,
+            "distance": 31,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551763215000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551763254000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 539901,
+            "runningSportId": 18,
+            "costTime": 16,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1551752104000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551752121000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 5,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 3347,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 81,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 551673,
+            "runningSportId": 11,
+            "costTime": 3347,
+            "distance": 3608,
+            "kcalConsumed": 81,
+            "qualified": true,
+            "startTime": 1551945167000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551948515000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 551567,
+            "runningSportId": 11,
+            "costTime": 377,
+            "distance": 223,
+            "kcalConsumed": 9,
+            "qualified": false,
+            "startTime": 1551944530000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551979831000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 548940,
+            "runningSportId": 10,
+            "costTime": 107,
+            "distance": 157,
+            "kcalConsumed": 18,
+            "qualified": false,
+            "startTime": 1551882284000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551882391000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 548913,
+            "runningSportId": 11,
+            "costTime": 692,
+            "distance": 891,
+            "kcalConsumed": 17,
+            "qualified": false,
+            "startTime": 1551881582000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551882275000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 548907,
+            "runningSportId": 9,
+            "costTime": 90,
+            "distance": 136,
+            "kcalConsumed": 7,
+            "qualified": false,
+            "startTime": 1551881485000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551881576000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 2,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 543581,
+            "runningSportId": 22,
+            "costTime": 106,
+            "distance": 142,
+            "kcalConsumed": 18,
+            "qualified": false,
+            "startTime": 1551844374000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551844481000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 540111,
+            "runningSportId": 23,
+            "costTime": 254,
+            "distance": 504,
+            "kcalConsumed": 6,
+            "qualified": false,
+            "startTime": 1551756677000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551756932000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 5,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 3,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 2,
+      "runningActivityTimeCosted": 7600,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 216,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 556190,
+            "runningSportId": 23,
+            "costTime": 228,
+            "distance": 133,
+            "kcalConsumed": 6,
+            "qualified": false,
+            "startTime": 1551964029000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551964257000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 555742,
+            "runningSportId": 23,
+            "costTime": 1453,
+            "distance": 1754,
+            "kcalConsumed": 35,
+            "qualified": false,
+            "startTime": 1551962540000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551963993000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 555466,
+            "runningSportId": 21,
+            "costTime": 649,
+            "distance": 1572,
+            "kcalConsumed": 48,
+            "qualified": true,
+            "startTime": 1551961854000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551962502000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 551580,
+            "runningSportId": 23,
+            "costTime": 3710,
+            "distance": 3915,
+            "kcalConsumed": 90,
+            "qualified": true,
+            "startTime": 1551944611000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551948320000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 544319,
+            "runningSportId": 23,
+            "costTime": 3241,
+            "distance": 3814,
+            "kcalConsumed": 78,
+            "qualified": true,
+            "startTime": 1551851066000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551854306000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 3,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 1,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 1,
+      "runningActivityTimeCosted": 3075,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 90,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 546549,
+            "runningSportId": 18,
+            "costTime": 3075,
+            "distance": 4021,
+            "kcalConsumed": 90,
+            "qualified": true,
+            "startTime": 1551866304000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551869380000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 543615,
+            "runningSportId": 18,
+            "costTime": 35,
+            "distance": 35,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551844435000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551844471000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 542667,
+            "runningSportId": 18,
+            "costTime": 85,
+            "distance": 128,
+            "kcalConsumed": 2,
+            "qualified": false,
+            "startTime": 1551836703000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551836788000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 1,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 0,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 0,
+      "runningActivityTimeCosted": 0,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 0,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 558311,
+            "runningSportId": 23,
+            "costTime": 10,
+            "distance": 0,
+            "kcalConsumed": 0,
+            "qualified": false,
+            "startTime": 1552020153000,
+            "sportDate": "2019-03-08",
+            "endedAt": 1552020162000,
+            "isValid": true,
+            "isVerified": false,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}{
+  "errors": [],
+  "data": {
+    "student": {
+      "accuRunningActivityCount": 10,
+      "accuAreaActivityCount": 0,
+      "qualifiedRunningActivityCount": 4,
+      "qualifiedAreaActivityCount": 0,
+      "signInCount": 2,
+      "runningActivityTimeCosted": 3494,
+      "areaActivityTimeCosted": 0,
+      "runningActivityKcalConsumption": 120,
+      "areaActivityKcalConsumption": 0,
+      "runningActivities": {
+        "data": [
+          {
+            "id": 558018,
+            "runningSportId": 22,
+            "costTime": 302,
+            "distance": 816,
+            "kcalConsumed": 51,
+            "qualified": true,
+            "startTime": 1552017176000,
+            "sportDate": "2019-03-08",
+            "endedAt": 1552017478000,
+            "isValid": false,
+            "isVerified": false,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 555136,
+            "runningSportId": 23,
+            "costTime": 2776,
+            "distance": 3501,
+            "kcalConsumed": 67,
+            "qualified": true,
+            "startTime": 1551961025000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551963803000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 553403,
+            "runningSportId": 23,
+            "costTime": 899,
+            "distance": 905,
+            "kcalConsumed": 22,
+            "qualified": false,
+            "startTime": 1551953800000,
+            "sportDate": "2019-03-07",
+            "endedAt": 1551979849000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 544422,
+            "runningSportId": 21,
+            "costTime": 718,
+            "distance": 1542,
+            "kcalConsumed": 53,
+            "qualified": true,
+            "startTime": 1551852368000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551853087000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          },
+          {
+            "id": 543772,
+            "runningSportId": 10,
+            "costTime": 92,
+            "distance": 13,
+            "kcalConsumed": 15,
+            "qualified": false,
+            "startTime": 1551844782000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551893415000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 543631,
+            "runningSportId": 10,
+            "costTime": 244,
+            "distance": 842,
+            "kcalConsumed": 41,
+            "qualified": true,
+            "startTime": 1551844461000,
+            "sportDate": "2019-03-06",
+            "endedAt": 1551893413000,
+            "isValid": false,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 541570,
+            "runningSportId": 11,
+            "costTime": 366,
+            "distance": 165,
+            "kcalConsumed": 9,
+            "qualified": false,
+            "startTime": 1551788118000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551807024000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8d70"
+            }
+          },
+          {
+            "id": 541400,
+            "runningSportId": 10,
+            "costTime": 666,
+            "distance": 407,
+            "kcalConsumed": 112,
+            "qualified": false,
+            "startTime": 1551787383000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551807022000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 541392,
+            "runningSportId": 10,
+            "costTime": 22,
+            "distance": 25,
+            "kcalConsumed": 4,
+            "qualified": false,
+            "startTime": 1551787348000,
+            "sportDate": "2019-03-05",
+            "endedAt": 1551807022000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u5feb\u8dd1"
+            }
+          },
+          {
+            "id": 539137,
+            "runningSportId": 21,
+            "costTime": 8,
+            "distance": 53,
+            "kcalConsumed": 1,
+            "qualified": false,
+            "startTime": 1551707016000,
+            "sportDate": "2019-03-04",
+            "endedAt": 1551707023000,
+            "isValid": true,
+            "isVerified": true,
+            "runningSport": {
+              "name": "\u6162\u8dd1"
+            }
+          }
+        ]
+      },
+      "areaActivities": {
+        "data": []
+      }
+    }
+  },
+  "extensions": null
+}

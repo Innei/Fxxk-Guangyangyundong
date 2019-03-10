@@ -1,8 +1,10 @@
+#!python3.7
 '''
 ' @author: yiny
 ' @repo: Fxxk-ggyd
-' @version: v0.9999beta
+' @version: v1.0beta
 ' 修正等待时间
+' 修正随机时间
 '''
 import requests
 import time
@@ -138,13 +140,12 @@ def anti_activity():  # 回走函数
 
 def activity():
     global longitude, latitude, lat1, lon1, lat2, lon2, stepCount, distance, start_time, targetFinishedTime
-    if distance >= 450:  # 如果大于630米要转弯 我觉得返回跑比较好 差不多这个点
+    if distance >= 470:  # 如果大于630米要转弯 我觉得返回跑比较好 差不多这个点
         anti_activity()
         # targetFinishedTime = int(time.time()) - start_time
         return
-    rand = random.randint(1, 100000) / 100000000
-    lon2 = lon1 + pow(-1, random.randint(0, 1)) * \
-        round(random.randint(1, 100) / 100) / 1000000  # 左右偏移 # 引入随机值
+    rand = round(random.randint(1, 100) / 100) / 4200
+    lon2 = lon1 + pow(-1, random.randint(0, 1)) * round(random.randint(1, 100) / 100) / 1000000  # 引入随机值
     lat2 = lat1 + rand
 
     distance = round(distance + haversine(lon1, lat1, lon2, lat2))  # 总距离

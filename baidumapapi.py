@@ -5,6 +5,7 @@ import urllib.parse
 import hashlib
 import requests
 import json
+from  pprint import pprint
 AK = 'bnbA5OGDjdxCtODwC8cEUIIWCSvuyirn'
 url = 'http://api.map.baidu.com/directionlite/v1/walking?origin=27.925212,120.712985&destination=27.932401,120.713758&ak=' + AK
 # 以get请求为例http://api.map.baidu.com/geocoder/v2/?address=百度大厦&output=json&ak=yourak
@@ -27,5 +28,5 @@ r = r.get(url)
 j = json.loads(r.content)
 with open('direction.json','w+',encoding='utf-8') as f:
     f.write(json.dumps(j,ensure_ascii=False,indent=2))
-print((j["result"]["routes"][0]["distance"]))
+pprint((j["result"]["routes"][0]["distance"]))
 

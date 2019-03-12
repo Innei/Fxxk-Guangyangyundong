@@ -2,7 +2,7 @@
 '''
 ' @author: yiny
 ' @repo: Fxxk-ggyd
-' @version: v1.2
+' @version: v1.1
 ' - What's new
 ' 修正等待时间
 ' 修正随机时间
@@ -15,6 +15,7 @@ import time
 import json
 import random
 from math import radians, cos, sin, asin, sqrt, pow
+from multiprocessing import Process
 
 url = 'https://api.guangyangyundong.com/'
 millis = int(round(time.time() * 1000))  # 获取时间截
@@ -50,6 +51,12 @@ js = json.loads(js)
 id = js["id"]  # 获取当前运动id
 
 print(id)
+'''
+    log = r.post(url + 'api/runningActivityData',
+                 headers=headers, data=activity_data).content
+    log = json.loads(log)
+    print(log)
+'''
 
 
 def to_post(**kwargs):
@@ -125,7 +132,7 @@ def anti_activity():  # 回走函数
         targetFinishedTime = int(time.time()) - start_time
         end()  # 1000m 结束 计算用时
         return
-    rand = round(random.randint(1, 100) / 100) / 4200 / 3  # 引入随机值
+    rand = round(random.randint(85, 100) / 100) / 4200 / 3  # 引入随机值
     lon2 = lon1 + pow(-1, random.randint(0, 1)) * \
            round(random.randint(1, 100) / 100) / 1000000  # 左右偏移
     lat2 = lat1 - rand
@@ -157,10 +164,7 @@ def anti_activity():  # 回走函数
     #              headers=headers, data=activity_data).content
     # log = json.loads(log)
     # print(log)
-    log = r.post(url + 'api/runningActivityData',
-                 headers=headers, data=activity_data).content
-    log = json.loads(log)
-    print(log)
+    Process(target=to_post, kwargs=activity_data).start()
     return
 
 
@@ -192,7 +196,7 @@ def activity():
         print(log)
         act_frequency = act_frequency + 1
         return
-    rand = round(random.randint(1, 100) / 100) / 4200 / 3
+    rand = round(random.randint(85, 100) / 100) / 4200 / 3
     lon2 = lon1 + pow(-1, random.randint(0, 1)) * round(random.randint(1, 100) / 100) / 1000000  # 引入随机值
     lat2 = lat1 + rand
     act_frequency = act_frequency + 1  # 次数加1
@@ -220,10 +224,7 @@ def activity():
     #              headers=headers, data=activity_data).content
     # log = json.loads(log)
     # print(log)
-    log = r.post(url + 'api/runningActivityData',
-                 headers=headers, data=activity_data).content
-    log = json.loads(log)
-    print(log)
+    Process(target=to_post, kwargs=activity_data).start()
 
 
 n = 0

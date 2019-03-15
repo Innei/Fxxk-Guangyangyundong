@@ -9,7 +9,8 @@ import time
 import random
 from math import radians, cos, sin, asin, sqrt, pow
 import os
-from multiprocessing import Process
+
+# from multiprocessing import Process
 
 millis = int(round(time.time() * 1000))
 start_time = int(time.time())
@@ -138,7 +139,7 @@ def anti_activity():  # 回走函数
         return
     rand = round(random.randint(70, 100) / 100) / 4200 / 3  # 引入随机值
     lon2 = lon1 + pow(-1, random.randint(0, 1)) * round(random.randint(1, 100) / 100) / 1000000  # 引入随机值
-    lat2 = lat1 + rand
+    lat2 = lat1 - rand
     act_frequency = act_frequency + 1  # 次数加1
     print(act_frequency)
     distance = round(distance + haversine(lon1, lat1, lon2, lat2))  # 总距离
@@ -167,7 +168,7 @@ def anti_activity():  # 回走函数
 
 def activity():
     global longitude, latitude, lat1, lon1, lat2, lon2, stepCount, distance, start_time, targetFinishedTime, act_frequency
-    if distance >= 470:  # 如果大于630米要转弯 我觉得返回跑比较好 差不多这个点
+    if distance >= 500:  # 如果大于630米要转弯 我觉得返回跑比较好 差不多这个点
         anti_activity()
         # targetFinishedTime = int(time.time()) - start_time
         return

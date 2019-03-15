@@ -60,10 +60,13 @@ print(id)
 
 
 def to_post(**kwargs):
-    log = r.post(url + 'api/runningActivityData',
-                 headers=headers, data=kwargs).content
-    log = json.loads(log)
-    print(log)
+    try:
+        log = r.post(url + 'api/runningActivityData',
+                     headers=headers, data=kwargs).content
+        log = json.loads(log)
+        print(log)
+    except requests.exceptions.ConnectionError:
+        pass
 
 
 def log_print(distance_per, stepCount_per, activity_data):
@@ -133,9 +136,8 @@ def anti_activity():  # 回走函数
         end()  # 1000m 结束 计算用时
         return
     rand = round(random.randint(85, 100) / 100) / 4200 / 3  # 引入随机值
-    lon2 = lon1 + pow(-1, random.randint(0, 1)) * \
-           round(random.randint(1, 100) / 100) / 1000000  # 左右偏移
-    lat2 = lat1 - rand
+    lon2 = lon1 + pow(-1, random.randint(0, 1)) * round(random.randint(1, 100) / 100) / 1000000  # 引入随机值
+    lat2 = lat1 + rand
     act_frequency = act_frequency + 1  # 次数加1
     print(act_frequency)
     distance = round(distance + haversine(lon1, lat1, lon2, lat2))  # 总距离
@@ -147,9 +149,9 @@ def anti_activity():  # 回走函数
         "distancePerStep": round(2.4 - random.randint(10, 60) / 100, 1),
         "locationType": 1,  # 根据高德api 应返回1 为GPS定位
         "stepCountCal": 0,  # 比总步数小一点 未证实
-        "longitude": lon1,  # 经纬度
+        "longitude": round(lon1, 6),  ## 经纬度
         "activityId": id,  # id唯一值
-        "latitude": lat1,
+        "latitude": round(lat1, 6),
         "stepCount": stepCount,  # 总步数
         "isNormal": 'true',  # 未证实
         "distance": distance,  # 距离累加 end应返回最后一个distance
@@ -170,7 +172,7 @@ def anti_activity():  # 回走函数
 
 def activity():
     global longitude, latitude, lat1, lon1, lat2, lon2, stepCount, distance, start_time, targetFinishedTime, act_frequency
-    if distance >= 470:  # 如果大于630米要转弯 我觉得返回跑比较好 差不多这个点
+    if distance >= 500:  # 如果大于630米要转弯 我觉得返回跑比较好 差不多这个点
         anti_activity()
         # targetFinishedTime = int(time.time()) - start_time
         return
@@ -181,7 +183,7 @@ def activity():
             "locationType": 1,  # 根据高德api 应返回1 为GPS定位
             "stepCountCal": 0,  # 比总步数小一点 未证实
             "longitude": longitude + pow(-1, random.randint(0, 1)) * round(random.randint(1, 100) / 100) / 1000000,
-        # 经纬度
+            # 经纬度
             "activityId": id,  # id唯一值
             "latitude": latitude + random.randint(1, 100) / 100 / 4200 / 300,
             "stepCount": stepCount,  # 总步数
@@ -209,9 +211,9 @@ def activity():
         "distancePerStep": round(2.4 - random.randint(10, 60) / 100, 1),  # 每秒走了多少步
         "locationType": 1,  # 根据高德api 应返回1 为GPS定位
         "stepCountCal": 0,  # 比总步数小一点 未证实
-        "longitude": lon1,  ## 经纬度
+        "longitude": round(lon1, 6),  ## 经纬度
         "activityId": id,  # id唯一值
-        "latitude": lat1,
+        "latitude": round(lat1, 6),
         "stepCount": stepCount,  # 总步数
         "isNormal": 'true',  # 未证实
         "distance": distance,  # 距离累加 end应返回最后一个distance

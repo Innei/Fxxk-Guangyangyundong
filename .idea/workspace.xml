@@ -12,6 +12,7 @@
     <session id="19671559">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -75,9 +76,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="413" />
-    <option name="y" value="224" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="17" />
+    <option name="y" value="38" />
     <option name="width" value="1344" />
     <option name="height" value="677" />
   </component>
@@ -165,7 +166,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="413" y="224" width="1344" height="677" extended-state="0" />
+    <frame x="276" y="225" width="1344" height="677" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -174,7 +175,7 @@
       <window_info anchor="bottom" id="Version Control" weight="0.32864675" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.32864675" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32864675" />
       <window_info anchor="bottom" id="调试" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />

@@ -136,8 +136,8 @@ def anti_activity():  # 回走函数
         end()  # 1000m 结束 计算用时
         return
     rand = round(random.randint(85, 100) / 100) / 4200 / 3  # 引入随机值
-    lon2 = lon1 - pow(-1, random.randint(0, 1)) * round(random.randint(1, 100) / 100) / 1000000  # 引入随机值
-    lat2 = lat1 + rand
+    lon2 = lon1 + pow(-1, random.randint(0, 1)) * round(random.randint(1, 100) / 100) / 1000000  # 引入随机值
+    lat2 = lat1 - rand
     act_frequency = act_frequency + 1  # 次数加1
     print(act_frequency)
     distance = round(distance + haversine(lon1, lat1, lon2, lat2))  # 总距离
